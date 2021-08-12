@@ -53,5 +53,6 @@ class EditUser extends LitElement {
       })
   }
 }
+
 customElements.define('edit-user', EditUser);
 
